@@ -13,6 +13,7 @@ Before reading this standard,
 we recommend completing the [Cadence tutorials](https://docs.onflow.org/cadence/tutorial/01-first-steps/)
 to build a basic understanding of the programming language.
 
+
 Resource-oriented programming, and by extension Cadence,
 provides an ideal programming model for non-fungible tokens (NFTs).
 Users are able to store their NFT objects directly in their accounts and transact
